@@ -180,8 +180,3 @@ and much more...|                                                    and more...
 [노드 스택](DataStructures/Stacks/NodeStack.java)|[AVL 트리](DataStructures/Trees/AVLTree.java)|
 [연결리스트 스택](DataStructures/Stacks/StackOfLinkedList.java)|[이진 트리](DataStructures/Trees/BinaryTree.java)|
 [스택](DataStructures/Stacks)|And much more...|
-
-* [Bags](DataStructures/Bags/Bag.java)
-* [Buffer](DataStructures/Buffers/CircularBuffer.java)
-* [HashMap](DataStructures/HashMap/HashMap.java)
-* [Matrix](DataStructures/Matrix/Matrix.java)
